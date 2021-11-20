@@ -25,7 +25,7 @@ demands:
         tools: 
           openscad: openscad.exe
 
-# settings: # common settings regardless of platform
-#  paths:
-#    path: . # add the base folder of the artifact to the PATH.
+settings: # common settings regardless of platform
+  paths:
+    path: . # add the base folder of the artifact to the PATH.
 #    openscadpath: libraries
