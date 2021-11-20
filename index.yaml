@@ -1,0 +1,41 @@
+# MANIFEST-INDEX
+items: [ libraries/mcad-1.0.0.yaml, openscad-2021.01.00.yaml ]
+indexes:
+  IdentityKey/info.id:
+    keys:
+      libraries/mcad: [ 0 ]
+      openscad: [ 1 ]
+    words:
+      libraries: [ 0 ]
+      libraries/mcad: [ 0 ]
+      mcad: [ 0 ]
+      openscad: [ 1 ]
+  SemverKey/info.version:
+    keys:
+      1.0.0: [ 0 ]
+      2021.1.0: [ 1 ]
+  StringKey/info.summary:
+    keys:
+      OpenSCAD is a 3D CAD program for the creation of 3D models.: [ 1 ]
+      OpenSCAD Parametric CAD Library (LGPL 2.1): [ 0 ]
+    words:
+      "1": [ 0 ]
+      "2": [ 0 ]
+      1): [ 0 ]
+      "2.1": [ 0 ]
+      2.1): [ 0 ]
+      3D: [ 1 ]
+      CAD: [ 0, 1 ]
+      LGPL: [ 0 ]
+      Library: [ 0 ]
+      OpenSCAD: [ 0, 1 ]
+      Parametric: [ 0 ]
+      a: [ 1 ]
+      creation: [ 1 ]
+      for: [ 1 ]
+      is: [ 1 ]
+      models: [ 1 ]
+      models.: [ 1 ]
+      of: [ 1 ]
+      program: [ 1 ]
+      the: [ 1 ]

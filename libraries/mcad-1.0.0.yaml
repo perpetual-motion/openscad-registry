@@ -1,0 +1,16 @@
+info: 
+  id: libraries/mcad
+  version: 1.0.0
+  summary: OpenSCAD Parametric CAD Library (LGPL 2.1)
+  description: |
+    This library contains components commonly used in designing and mocking up mechanical designs. It is currently unfinished and you can expect some API changes, however many things are already working.
+    This library was created by various authors as named in the individual files' comments. All the files are licensed under the LGPL 2.1 (see http://creativecommons.org/licenses/LGPL/2.1/ or the included file lgpl-2.1.txt), some of them allow distribution under more permissive terms (as described in the files' comments).
+
+install:
+  unzip: https://github.com/openscad/MCAD/archive/bd0a7ba3f042bfbced5ca1894b236cea08904e26.zip
+  sha256: BD40207753BB5111AC2022DA47BDD0CBA91393018BADEBC8541B8CB1D9F8572A
+  transform: s/.*?\//MCAD\//
+
+settings: 
+  paths:
+    openscadpath: .
